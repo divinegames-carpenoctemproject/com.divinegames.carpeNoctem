@@ -1,0 +1,1 @@
+../../../DemoProject/DemoProject.uproject  /Game/PuzzleBP/Maps/MainMenu -Messaging -SessionId=BCA50A5B4EBEAA32704807AA453E6002 -SessionOwner="Lau" -SessionName="Launch On Device" -iterative
