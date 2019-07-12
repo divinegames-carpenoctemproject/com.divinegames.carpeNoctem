@@ -3351,3 +3351,34 @@ Missing Cooked Info(expected 0): 0
 [2019.07.12-17.27.18:134][803]Cmd: MAP CHECK NOTIFYRESULTS
 [2019.07.12-17.27.18:134][803]MapCheck: New page: MainMenu - Jul 12, 2019, 11:27:18 PM
 [2019.07.12-17.27.18:134][803]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.245ms to complete.
+[2019.07.12-17.29.21:503][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Maps/MainMenu" FILE="../../../../../GitHub/DvG_CN/DemoProject/Content/PuzzleBP/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.12-17.29.21:527][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.07.12-17.29.21:618][240]LogSavePackage: Moving '../../../../../GitHub/DvG_CN/DemoProject/Saved/MainMenu66FEF026488AF11CA621BBBF53162849.tmp' to '../../../../../GitHub/DvG_CN/DemoProject/Content/PuzzleBP/Maps/MainMenu.umap'
+[2019.07.12-17.29.21:645][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Maps/MainMenu_BuiltData" FILE="../../../../../GitHub/DvG_CN/DemoProject/Content/PuzzleBP/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2019.07.12-17.29.21:658][240]LogSavePackage: Moving '../../../../../GitHub/DvG_CN/DemoProject/Saved/MainMenu_BuiltData3317C265462F4C3521C2B8BEC99C4D44.tmp' to '../../../../../GitHub/DvG_CN/DemoProject/Content/PuzzleBP/Maps/MainMenu_BuiltData.uasset'
+[2019.07.12-17.29.30:583][294]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/PuzzlePlayerController.PuzzlePlayerController
+[2019.07.12-17.29.30:794][294]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.07.12-17.30.48:902][213]LogSlate: Window 'PuzzlePlayerController' being destroyed
+[2019.07.12-17.30.48:993][213]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/PuzzlePlayerController.PuzzlePlayerController
+[2019.07.12-17.30.49:282][213]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.12-17.30.53:282][660]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2019.07.12-17.31.23:391][225]LogSlate: Window 'PuzzlePlayerController' being destroyed
+[2019.07.12-17.32.09:583][539]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/PuzzlePlayerCharacter.PuzzlePlayerCharacter
+[2019.07.12-17.33.09:008][310]LogSlate: Window 'PuzzlePlayerCharacter' being destroyed
+[2019.07.12-17.33.12:214][681]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/PuzzleGameMode.PuzzleGameMode
+[2019.07.12-17.33.14:815][957]LogSlate: Window 'PuzzleGameMode' being destroyed
+[2019.07.12-17.33.14:879][957]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/PuzzleGameMode.PuzzleGameMode
+[2019.07.12-17.33.18:710][372]LogSlate: Window 'PuzzleGameMode' being destroyed
+[2019.07.12-17.33.18:713][372]LogSlate: Window 'PuzzleGameMode' being destroyed
+[2019.07.12-17.35.22:509][656]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.07.12-17.35.23:384][656]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.07.12-17.35.23:867][676]LogTexture: Display: Building textures: DummySpriteTexture (AutoDXT, 128X128)
+[2019.07.12-17.35.23:882][677]LogTexture: Display: Building textures: PreviewShadowIndicator (BGRA8, 512X512)
+[2019.07.12-17.35.29:563][347]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.12-17.37.45:482][ 11]LogSlate: Window 'Project Settings' being destroyed
+[2019.07.12-17.37.45:485][ 11]LogSlate: Window 'Project Settings' being destroyed
+[2019.07.12-17.37.48:078][314]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/PuzzleBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2019.07.12-17.39.26:633][955]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.07.12-17.39.26:840][955]LogSavePackage: Moving '../../../../../GitHub/DvG_CN/DemoProject/Saved/MainMenu_Auto17A60E10242DCAEFBBAB4649E222DB08C.tmp' to '../../../../../GitHub/DvG_CN/DemoProject/Saved/Autosaves/Game/PuzzleBP/Maps/MainMenu_Auto1.umap'
+[2019.07.12-17.39.26:843][955]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/MainMenu' took 0.303
+[2019.07.12-17.39.26:843][955]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.303
