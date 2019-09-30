@@ -1,0 +1,18 @@
+images {
+  image: "/assets/art/MMbackground.jpg"
+}
+images {
+  image: "/assets/art/CNlogo.jpg"
+}
+images {
+  image: "/assets/art/bouser.jpg"
+}
+images {
+  image: "/assets/art/mario.jpg"
+}
+images {
+  image: "/assets/art/peach.jpg"
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0
