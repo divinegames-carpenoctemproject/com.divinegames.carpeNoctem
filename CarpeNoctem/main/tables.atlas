@@ -1,0 +1,61 @@
+animations {
+  id: "Table"
+  images {
+    image: "/builtins/graphics/particle_blob.png"
+  }
+  images {
+    image: "/main/images/longTableDecorated_E.png"
+  }
+  images {
+    image: "/main/images/longTableDecorated_N.png"
+  }
+  images {
+    image: "/main/images/longTableDecorated_S.png"
+  }
+  images {
+    image: "/main/images/longTableDecorated_W.png"
+  }
+  images {
+    image: "/main/images/longTableDecoratedChairs_E.png"
+  }
+  images {
+    image: "/main/images/longTableDecoratedChairs_N.png"
+  }
+  images {
+    image: "/main/images/longTableDecoratedChairs_S.png"
+  }
+  images {
+    image: "/main/images/longTableDecoratedChairs_W.png"
+  }
+  images {
+    image: "/main/images/longTableDecoratedChairsBooks_E.png"
+  }
+  images {
+    image: "/main/images/longTableDecoratedChairsBooks_N.png"
+  }
+  images {
+    image: "/main/images/longTableDecoratedChairsBooks_S.png"
+  }
+  images {
+    image: "/main/images/longTableDecoratedChairsBooks_W.png"
+  }
+  images {
+    image: "/main/images/longTableLarge_E.png"
+  }
+  images {
+    image: "/main/images/longTableLarge_N.png"
+  }
+  images {
+    image: "/main/images/longTableLarge_S.png"
+  }
+  images {
+    image: "/main/images/longTableLarge_W.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 1
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0

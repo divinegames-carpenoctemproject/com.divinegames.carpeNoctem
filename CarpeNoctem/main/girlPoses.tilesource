@@ -1,0 +1,19 @@
+image: "/main/images/stock-vector-illustration-of-a-girl-in-different-poses-holding-a-sign-248992441.jpg"
+tile_width: 180
+tile_height: 350
+tile_margin: 0
+tile_spacing: 0
+collision: ""
+material_tag: "tile"
+collision_groups: "girlPoses"
+animations {
+  id: "girlPoses"
+  start_tile: 1
+  end_tile: 16
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 1
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+extrude_borders: 2
+inner_padding: 0
